@@ -87,4 +87,4 @@ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 ## **Authors**
 Abaida Nassim [Github](https://github.com/Nassim33150).
 
-Laroche Marion [Github](https://github.com/Mamuche).
+Laroche Marion [Github](https://github.com/Mamuche), [LinkedIn](https://www.linkedin.com/in/marion-laroche-8b235a284/).
